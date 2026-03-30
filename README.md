@@ -106,11 +106,3 @@ Accéder à l'application via votre navigateur : `http://localhost/`
 | `POST /add_to_library` | Ajouter un jeu à sa bibliothèque |
 | `GET/POST /profile` | Profil utilisateur |
 | `GET /leaderboard` | Classement des joueurs |
-
-## Auteur
-
-**Ewen Pichoff** — [ewen.pichoff@gmail.com](mailto:ewen.pichoff@gmail.com)
-
-## Licence
-
-Ce projet est distribué sous licence [MIT](LICENSE).
